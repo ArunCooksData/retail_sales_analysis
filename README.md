@@ -1,4 +1,4 @@
-![Spotify Logo](./retail-sales.png)
+![retail-sales Logo](./retail-sales.png)
 
 # 🛒 Retail Sales Analysis | SQL Project 📊
 
