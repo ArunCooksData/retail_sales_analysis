@@ -1,4 +1,4 @@
-![retail-sales Logo](./retail-sales.png)
+![retail-sales Logo](./retail-sales.jpg)
 
 # 🛒 Retail Sales Analysis | SQL Project 📊
 
