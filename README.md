@@ -43,7 +43,7 @@ This analysis not only answered fundamental business questions but also provided
 ## 📧 Connect with Me
 
 - **Email:** [arundeepp9393@gmail.com](mailto:arundeepp9393@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/arun](https://www.linkedin.com/in/arun)  
+- **LinkedIn:** [linkedin.com/in/arun](https://www.linkedin.com/in/arun-deep-04964b258/)  
 - **GitHub:** [github.com/ArunCooksData](https://github.com/ArunCooksData)  
 
 ---
